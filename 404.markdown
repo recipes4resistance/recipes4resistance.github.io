@@ -1,0 +1,7 @@
+---
+permalink: /404.html
+title: Page not found
+layout: page
+---
+
+The requested page could not be found. To report an error on our site, please [contact us](/contact).
