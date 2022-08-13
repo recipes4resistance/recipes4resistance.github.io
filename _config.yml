@@ -37,7 +37,8 @@ formspree:
   form_id: xknenbbr
 
 # Build settings
-theme: jekyll-theme-clean-blog
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
