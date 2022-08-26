@@ -38,6 +38,8 @@ Victoria (they/she) is a Joint PhD student in the Computer Science + Learning Sc
 
 ### Guest Host: Gayithri Jayathirtha
 
+### Guest Host: Megumi Kivuva
+
 ### Guest Host: Minji Kong
 
 ### Guest Host: Amber Solomon
