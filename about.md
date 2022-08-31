@@ -45,3 +45,4 @@ Victoria (they/she) is a Joint PhD student in the Computer Science + Learning Sc
 ### Guest Host: Amber Solomon
 
 ### Guest Host: Jennifer Tsan
+Jen (she/her) is a researcher focused on supporting K-8 students and teachers in computer science. She is guided by the knowledge and experiences of those around her and stories of those who are marginalized.
