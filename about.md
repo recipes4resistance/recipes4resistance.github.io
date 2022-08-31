@@ -47,3 +47,5 @@ Dr. Francisco Castro (he/siya) is a computing scientist and Computing Innovation
 
 ### Guest Host: Jennifer Tsan
 Jen (she/her) is a researcher focused on supporting K-8 students and teachers in computer science. She is guided by the knowledge and experiences of those around her and stories of those who are marginalized.
+
+---
