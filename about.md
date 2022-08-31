@@ -33,6 +33,7 @@ Victoria (they/she) is a Joint PhD student in the Computer Science + Learning Sc
 ### Guest Host: Natalie Araujo Melo
 
 ### Guest Host: Francisco Castro
+Dr. Francisco Castro (he/siya) is a computing scientist and Computing Innovation Research Fellow at New York University. His research focuses on the human-centered design of creative technologies, collaborative spaces, and educational resources that empower people to learn and use computing, AI, and STEM skills in culturally sustaining ways. In his work, he partners with educators, artists, technologists, and learners to engage critical issues and topics of equity, ethics, education, creative practice, and technology design through—and within—creative production, learning design, and social justice.
 
 ### Guest Host: Earl W. Huff Jr
 
