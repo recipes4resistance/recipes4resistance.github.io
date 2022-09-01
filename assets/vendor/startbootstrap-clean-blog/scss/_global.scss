@@ -23,6 +23,15 @@ h6 {
 }
 
 a {
+    color: $d-teal;
+
+    &:focus,
+    &:hover {
+        color: $primary;
+    }
+}
+
+a .fa-stack {
     color: $gray-900;
 
     &:focus,
