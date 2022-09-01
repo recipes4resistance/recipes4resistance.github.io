@@ -42,6 +42,7 @@ Dr. Francisco Castro (he/siya) is a computing scientist and Computing Innovation
 ### Guest Host: Megumi Kivuva
 
 ### Guest Host: Minji Kong
+Minji Kong (she/her) is a PhD student in Computer Science at the University of Delaware. Her research focuses on co-designing with practicing K-8 computing teachers tools that augment complex teaching tasks, such as personalizing in-class support for students, by blending aspects of Computing Education, Human-Computer Interaction, Artificial Intelligence, and Equity in Computing Education. Minji is a member of the Partner4CS team, a National Science Foundation (NSF)-funded interdisciplinary effort towards strengthening computing education within diverse Delaware K-12 populations. Her research is supported by an NSF Graduate Research Fellowship.
 
 ### Guest Host: Amber Solomon
 
