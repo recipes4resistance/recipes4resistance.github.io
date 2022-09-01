@@ -1,15 +1,19 @@
 // Custom color variables
 
-//Updated color palette: https://coolors.co/palette/ff6d00-ff8500-ff9e00-240046-5a189a-9d4edd-18af9d
+//Inspiration color palette: https://coolors.co/palette/ff6d00-ff8500-ff9e00-240046-5a189a-9d4edd-18af9d
 
-$dark-og: #FF6D00;
-$med-og: #FF8500;
-$light-og: #FF9E00;
-$dark-pr: #240046;
-$med-pr: #5A189A;
-$light-pr: #9D4EDD;
-$teal: #197278;
+//Web colors, dark: https://coolors.co/d81159-ec7d10-197278-5a189a-241e4e
+$d-pink: #d81159;
+$d-orange: #ec7d10;
+$d-teal: #197278;
+$d-purple: #5a189a;
 
 
-$primary: $teal;
-$pop: $med-pr;
+//Web colors, bright: https://coolors.co/ed217c-ff8500-4ecdc4-5a189a-ffffff
+$b-pink: #ed217c;
+$b-orange: #ff8500;
+$b-teal: #4ecdc4;
+$b-purple: #5a189a;
+
+$primary: $b-teal;
+$pop: $b-purple;
