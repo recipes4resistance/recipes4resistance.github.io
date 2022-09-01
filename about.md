@@ -43,8 +43,10 @@ Dr. Gayithri Jayathirtha (she/her/hers) is a Computing Innovation Fellow at the 
 ### Guest Host: Megumi Kivuva
 
 ### Guest Host: Minji Kong
+Minji Kong (she/her) is a PhD student in Computer Science at the University of Delaware. Her research focuses on co-designing with practicing K-8 computing teachers tools that augment complex teaching tasks, such as personalizing in-class support for students, by blending aspects of Computing Education, Human-Computer Interaction, Artificial Intelligence, and Equity in Computing Education. Minji is a member of the Partner4CS team, a National Science Foundation (NSF)-funded interdisciplinary effort towards strengthening computing education within diverse Delaware K-12 populations. Her research is supported by an NSF Graduate Research Fellowship.
 
 ### Guest Host: Amber Solomon
+Amber (she/her) is a Black woman and ATLien computer science researcher at Army FUTURES Command. She acknowledges the labor of Black, disabled, and otherwise minoritized thinkers and scholars that motivates her work and challenges her to think in generative ways.
 
 ### Guest Host: Jennifer Tsan
 Jen (she/her) is a researcher focused on supporting K-8 students and teachers in computer science. She is guided by the knowledge and experiences of those around her and stories of those who are marginalized.
