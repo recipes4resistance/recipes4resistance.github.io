@@ -41,7 +41,8 @@ Dr. Francisco Castro (he/siya) is a computing scientist and Computing Innovation
 ### Guest Host: Gayithri Jayathirtha
 Dr. Gayithri Jayathirtha (she/her/hers) is a Computing Innovation Fellow at the University of Oregon, Eugene, USA. Her work dismisses the neutral, non-political facade of computing and computing education and calls for centering justice issues within computing education. She currently partners with high school computing teachers, curriculum developers, and teacher professional development designers and facilitators to integrate and center justice within K-12 computing programs.
 
-### Guest Host: Megumi Kivuva
+### Guest Host: [Megumi Kivuva](https://megumikivuva.github.io)
+Megumi is a Ph.D. student at the University of Washington, Seattle, Information School. They are interested in broadening participation in computing education through creating inclusive CS education environments. They specifically work with Black students and refugees where they aim to understand the barriers to accessing computing education and co-design interventions to make computing education more accessible to these communities. Their previous work includes CS integration in language learning, co-construction in CS classes, and teaching CS in various after-school settings.
 
 ### Guest Host: Minji Kong
 Minji Kong (she/her) is a PhD student in Computer Science at the University of Delaware. Her research focuses on co-designing with practicing K-8 computing teachers tools that augment complex teaching tasks, such as personalizing in-class support for students, by blending aspects of Computing Education, Human-Computer Interaction, Artificial Intelligence, and Equity in Computing Education. Minji is a member of the Partner4CS team, a National Science Foundation (NSF)-funded interdisciplinary effort towards strengthening computing education within diverse Delaware K-12 populations. Her research is supported by an NSF Graduate Research Fellowship.
