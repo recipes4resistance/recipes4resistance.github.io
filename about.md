@@ -38,6 +38,7 @@ Dr. Francisco Castro (he/siya) is a computing scientist and Computing Innovation
 ### Guest Host: Earl W. Huff Jr
 
 ### Guest Host: Gayithri Jayathirtha
+Dr. Gayithri Jayathirtha (she/her/hers) is a Computing Innovation Fellow at the University of Oregon, Eugene, USA. Her work dismisses the neutral, non-political facade of computing and computing education and calls for centering justice issues within computing education. She currently partners with high school computing teachers, curriculum developers, and teacher professional development designers and facilitators to integrate and center justice within K-12 computing programs.
 
 ### Guest Host: Megumi Kivuva
 
