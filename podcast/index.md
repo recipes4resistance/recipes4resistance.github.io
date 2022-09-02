@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Posts
-background: '/img/bg-post.jpg'
+title: Podcast Episodes
 ---
+
+## Coming Soon! 
+
+In the meantime, feel free to [learn more about us](/about) and [get in touch](/contact)!
 
 {% for post in paginator.posts %}
 
