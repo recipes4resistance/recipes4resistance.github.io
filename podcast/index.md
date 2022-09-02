@@ -5,7 +5,7 @@ title: Podcast Episodes
 
 ## Coming Soon! 
 
-In the meantime, feel free to [learn more about us](/about) and [get in touch](/contact)!
+In the meantime, feel free to [learn more about us](/about), [get in touch](/contact), and sign up for email updates below.
 
 {% for post in paginator.posts %}
 
