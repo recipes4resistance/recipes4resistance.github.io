@@ -26,7 +26,7 @@ This podcast is funded by a [SIGCSE Special Projects Grant](https://sigcse.org/p
 
 ## Hosts {#team}
 
-### Briana Bettin, PhD
+### [Briana Bettin, PhD](https://pages.mtu.edu/~bcbettin)
 Briana Bettin (she/her/hers) is an assistant professor of computer science and cognitive and learning sciences at Michigan Technological University. Her research work broadly centers computing education with focus on human interests, impacts, and learning within our increasingly technological society. She is most interested in how to help us all learn to better live with, work with, (re)imagine with, and be represented equitably within the increasingly digital landscape of our world.
 
 ### [Victoria C. Ch&aacute;vez](http://vickiebananas.com)
