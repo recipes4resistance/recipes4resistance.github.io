@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Episode 1: resiCStance"
-subtitle: ""
-date: 
-background: ''
+title: "Framing the Conversation: Episode 1"
+subtitle: "testing"
+date: 2022-09-01
 ---
 
 <p>Overview here?</p>
