@@ -27,6 +27,7 @@ This podcast is funded by a [SIGCSE Special Projects Grant](https://sigcse.org/p
 ## Hosts {#team}
 
 ### Briana Bettin, PhD
+Briana Bettin (she/her/hers) is an assistant professor of computer science and cognitive and learning sciences at Michigan Technological University. Her research work broadly centers computing education with focus on human interests, impacts, and learning within our increasingly technological society. She is most interested in how to help us all learn to better live with, work with, (re)imagine with, and be represented equitably within the increasingly digital landscape of our world.
 
 ### [Victoria C. Ch&aacute;vez](http://vickiebananas.com)
 Victoria (they/she) is a Joint PhD student in the Computer Science + Learning Sciences Program at Northwestern University. Their research interests stem from asking "How can we make computer science a safe and joyous experience for Black, Disabled, Indigenous, and Latine/x college students?". Victoria is also broadly interested in issues of accessibility, civic tech, equity, and social justice.
