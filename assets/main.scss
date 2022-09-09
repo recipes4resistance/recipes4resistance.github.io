@@ -3,3 +3,44 @@
 ---
 
 @import "styles";
+
+
+// styling for "back to top" button
+
+main {
+	position: relative;
+
+	article {
+		@media only screen and (max-width: 992px) {
+			padding-right: 5rem !important;
+		}
+	}
+}
+
+$scrollLength: 150vh;
+
+.back-to-top-wrapper {
+  position: absolute;
+  top: $scrollLength;
+  right: 1rem;
+  bottom: -5em;
+  width: 3em;
+  pointer-events: none;
+
+  @media only print {
+  	display: none;
+  }
+}
+
+#topBtn {  
+  position: fixed;  
+  position: sticky;
+  pointer-events: all;
+  top: calc(100vh - 6rem);
+  display: inline-block;
+}
+
+#topText {
+	font-size: 12px;
+	margin-top: 5em;
+}
