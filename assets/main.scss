@@ -7,14 +7,14 @@
 
 // styling for "back to top" button
 
-main {
+body {
 	position: relative;
+}
 
-	article {
-		@media only screen and (max-width: 992px) {
-			padding-right: 5rem !important;
-		}
-	}
+article {
+  @media only screen and (max-width: 992px) {
+    padding-right: 5rem !important;
+  }
 }
 
 $scrollLength: 150vh;
@@ -36,7 +36,7 @@ $scrollLength: 150vh;
   position: fixed;  
   position: sticky;
   pointer-events: all;
-  top: calc(100vh - 6rem);
+  top: calc(max(6rem, 100vh - 6rem));
   display: inline-block;
 }
 
