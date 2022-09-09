@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+**Jump to:** [About Recipes for Resistance](#about) \| [About the Podcast](#podcast) \| [About the Team](#team)
+
 ## Recipes for Resistance {#about}
 We are [a team](#team) of early-career computer science education (CSE) researchers who identify and critically address inequities and bias in CSE to transform the space into a more equitable field.
 
