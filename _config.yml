@@ -32,6 +32,8 @@ url: "https://recipes4resistance.github.io" # the base hostname & protocol for y
 twitter_username: recipes4resist
 github_username:  recipes4resistance
 
+author: Recipes for Resistance
+
 # for contact form
 formspree:
   form_id: xknenbbr
