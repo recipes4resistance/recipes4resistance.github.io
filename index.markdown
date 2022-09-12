@@ -1,5 +1,6 @@
 ---
 layout: home
+background: '/img/ballroom-masthead.png'
 ---
 
 ## Welcome!

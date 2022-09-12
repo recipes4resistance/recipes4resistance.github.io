@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+background: '/img/ballroom-masthead.png'
 ---
 
 **Jump to:** [About Recipes for Resistance](#about) \| [About the Podcast](#podcast) \| [About the Team](#team)
