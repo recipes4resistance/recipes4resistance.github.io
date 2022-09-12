@@ -8,6 +8,18 @@ title: About
 ## Recipes for Resistance {#about}
 We are [a team](#team) of early-career computer science education (CSE) researchers who identify and critically address inequities and bias in CSE to transform the space into a more equitable field.
 
+### Our Logo
+
+<div class="row">
+	<div class="col-sm"> <img src="{{"/img/logo.png" | relative_url }}" style="width: 100%;" alt=""/></div>
+
+	<p class="col-sm"> Continuing with our cooking metaphors and inspired by a tool shared by many cultures across time and location, our logo is a <i>molcajete</i>-- a mortar made up of two uppercase R's with pestle inside. The two R's form two faces facing each other with a shared dream bubble with a heart inside.</p>
+</div>
+
+The colorful dainty growth on the pestle represents the growth and healing we hope the podcast creates.
+The floral accents in and on the bowl represent a garden from which our conversations are growing, with ideas blossoming within as we mix them up in our "cooking". The faces "built in" to the R's signify that **we** are a part of the mortar, where we're making something beautiful together.
+Lastly, the dream bubble represents the ways we're imagining and dreaming up love.
+
 ## A Multi-Modal Podcast Centering Justice, Joy, and Healing {#podcast}
 The [Recipes for Resistance Podcast](/podcast) is a multi-modal podcast series that provides a platform for minoritized voices to discuss how to foster equity in the CS and CS Education (CSE) fields. The podcast seeks to elevate voices and ideas beyond those traditionally centered, including CS teachers, parents, students, and community members whose lived experiences include doing work by and for their communities. 
 
