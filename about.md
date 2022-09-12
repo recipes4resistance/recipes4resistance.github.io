@@ -8,17 +8,6 @@ title: About
 ## Recipes for Resistance {#about}
 We are [a team](#team) of early-career computer science education (CSE) researchers who identify and critically address inequities and bias in CSE to transform the space into a more equitable field.
 
-### Our Logo {#logo}
-Purple mortar made up of two uppercase r's with an orange pestle inside. The two R's form two teal faces facing each other with a shared speech bubble with a purple heart inside. The pestle is wrapped by a colorful leafy vine. The top of the mortar has our name (Recipes for Resistance) and the center our tagline: cooking up community. Above the tagline is a small plant. 
-
-
-Pestle is a traditional pestle now, but I've added a colorful dainty growth to represent the growth and healing we hope the podcast creates
-We've got some of that floral accent from the "hippie/60s" images in the bowl - I kind of imagined like its a little garden and our conversations are growing out of all of these wonderful ideas that are blossoming within as we mix them up in our cooking
-The R's have the faces "built in" to them which makes the faces a bit more strongly apparent. it pulls the R back, but it makes the Rs part of the mortar and the faces almost "set into" it - like we're a part of the mortar, where we're making something beautiful together
-I have the faces having a conversation with the dream bubble with a little heart in it, trying to represent the ways we're imagining and dreaming up love
-More of a fun font for the podcast title
-There's a little flourish coming out of the "Cooking up Community" tagline to bring that idea of growth and blossoming back in and use it to draw the eye to the tagline
-
 ## A Multi-Modal Podcast Centering Justice, Joy, and Healing {#podcast}
 The [Recipes for Resistance Podcast](/podcast) is a multi-modal podcast series that provides a platform for minoritized voices to discuss how to foster equity in the CS and CS Education (CSE) fields. The podcast seeks to elevate voices and ideas beyond those traditionally centered, including CS teachers, parents, students, and community members whose lived experiences include doing work by and for their communities. 
 
