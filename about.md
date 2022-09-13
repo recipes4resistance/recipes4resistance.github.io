@@ -60,6 +60,9 @@ Earl Huff, Jr. (he/him/his) is an Assistant Professor in the School of Informati
 ### Gayithri Jayathirtha, PhD
 Dr. Gayithri Jayathirtha (she/her/hers) is a Computing Innovation Fellow at the University of Oregon, Eugene, USA. Her work dismisses the neutral, non-political facade of computing and computing education and calls for centering justice issues within computing education. She currently partners with high school computing teachers, curriculum developers, and teacher professional development designers and facilitators to integrate and center justice within K-12 computing programs.
 
+### Stephanie Jones
+Stephanie Jones (they/she/any) is a 5th year Computer Science and Learning Science PhD Student. She is a graduate of Villanova University with Bachelors degrees in Computer Engineering and Electrical Engineering and a minor in Computer Science, which led her to questions of equity within STEM learning. Their current research interests include intergenerational learning opportunities, building technologies that are personally relevant, and the relationships between (anti-)Blackness, computing, and liberatory futures. Blending research and ancestral knowledge she asks what does it mean to come from a legacy of people who fought to learn and teach?
+
 ### [Megumi Kivuva](https://megumikivuva.github.io)
 Megumi is a Ph.D. student at the University of Washington, Seattle, Information School. They are interested in broadening participation in computing education through creating inclusive CS education environments. They specifically work with Black students and refugees where they aim to understand the barriers to accessing computing education and co-design interventions to make computing education more accessible to these communities. Their previous work includes CS integration in language learning, co-construction in CS classes, and teaching CS in various after-school settings.
 
