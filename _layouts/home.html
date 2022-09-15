@@ -31,10 +31,10 @@ layout: default
         <!-- Home Post List -->
 
         <div class="clearfix">
-          <!-- Below are our most recent episodes.  You can --> Coming Soon! Please sign up for email updates at the bottom of this page <!-- or <a href="{{"/podcast" | relative_url }}">view all existing episodes</a> -->. 
+          Below are our most recent episodes. You can sign up for email updates at the bottom of this page or <a href="{{"/podcast" | relative_url }}">view all existing episodes</a>. 
         </div>
 
-        <!-- {% for post in site.posts limit : 5 %}
+        {% for post in site.posts limit : 5 %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -45,18 +45,13 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
+          <p class="post-meta">Posted
             on
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
         </article>
 
-        {% endfor %} -->
+        {% endfor %}
         
 
       </article>
