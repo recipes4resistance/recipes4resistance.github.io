@@ -31,6 +31,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://recipes4resistance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: recipes4resist
 github_username:  recipes4resistance
+instagram_username: recipes4resistance
 
 author: Recipes for Resistance
 
