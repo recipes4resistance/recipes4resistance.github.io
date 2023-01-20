@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode X, Part 2: TITLE"
+title: "Part 2, Episode X : TITLE"
 subtitle: "Kitchen table talk with SPEAKERS and HOSTS"
 date: 2022-MM-DD
 ---

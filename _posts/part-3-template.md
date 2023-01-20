@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode X, Part 3: TITLE"
+title: "Part 3, Episode X : TITLE"
 subtitle: "Following up on TOPIC"
 date: 2022-MM-DD
 ---
