@@ -11,8 +11,9 @@ date: 2023-MM-DD
 ## Sink your teeth into these...
 We encourage you to engage with the resources below to become more familiar with the topic of *XXXX* before engaging with the kitchen-table talk in part 2 (coming soon!). The resources below were curated by our kitchen-table talk guest speakers and hosts-- among many others, these resources have helped inform their scholarship and their own lived resistance.
 
-<!-- some suggested categories, dont need to use all -->
+<!-- some suggested categories, dont need to use all, add/remove as needed! -->
 ### Academic Articles
+### Blog Articles
 ### Books
 ### Interviews
 ### Keynote Presentations
