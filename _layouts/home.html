@@ -34,7 +34,7 @@ layout: default
           Below are our most recent episodes. Follow us on your favorite podcast platform, sign up for email updates at the bottom of this page, and <a href="{{"/podcast" | relative_url }}">view all existing episodes with transcripts and accompanying goodies</a>. 
         </div>
 
-        {% for post in site.posts limit : 5 %}
+        {% for post in site.posts limit : 3 %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -52,6 +52,9 @@ layout: default
         </article>
 
         {% endfor %}
+
+        <a class="btn btn-primary float-right" href="/podcast">More Episodes<span class="d-none d-md-inline">
+              </span> &rarr;</a>
         
 
       </article>
